@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## About Me
 
-I am a self taught fullstack webdev with an interest in data science and machine learning. I am willing to collaborate on projects that use Java, 
+I am a self taught fullstack webdev with an interest in data science and machine learning. I also love comp. programming. I am willing to collaborate on projects that use Java, 
 Python or React. PLease contact me through linkedIn. 
 
 ## GitHub Stats
@@ -21,5 +21,4 @@ Python or React. PLease contact me through linkedIn.
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/shourya0/)
